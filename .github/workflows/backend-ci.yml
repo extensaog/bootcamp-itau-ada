@@ -38,3 +38,4 @@ jobs:
       run: |
         docker build -t ghcr.io/maykonsantana/backend-app:latest .
         docker push ghcr.io/maykonsantana/backend-app:latest
+        
